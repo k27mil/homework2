@@ -17,7 +17,6 @@ namespace homework2
             public string Exam { get; set; }
             public int Points { get; set; }
         }
-
         static void Main()
         {
             List<Student> students = new List<Student>();
